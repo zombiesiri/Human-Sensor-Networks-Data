@@ -1,0 +1,1 @@
+These datasets were used for writing our paper "Human Sensor Networks: Integrating Generative AI, Social Media, and Earth Observation for Disaster Modeling and Impact Analysis"collected from the APIs of X and Instagram. It also includes the KML file from satellite data for mapping the satellite coordinates.
