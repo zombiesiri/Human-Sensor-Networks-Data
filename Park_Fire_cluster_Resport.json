@@ -1,0 +1,761 @@
+{
+  "2024-07-25": [
+    {
+      "cluster_id": "2024-07-25_cluster_0",
+      "date": "2024-07-25",
+      "location": {
+        "lat": 38.2974855,
+        "lon": -76.4933648
+      },
+      "time_range": {
+        "start": "2024-07-25 00:45:02",
+        "end": "2024-07-25 19:07:39"
+      },
+      "post_count": 5,
+      "social_summary": {
+        "summary": "a resident 25, 2024, several Instagram posts highlighted a park fire, with multiple photos shared by residents. One post noted that the presence of white smoke is a positive indicator in this context.",
+        "key_observations": [
+          "Residents shared multiple photos of the park fire.",
+          "A resident mentioned that white smoke is good."
+        ],
+        "severity": "The situation appears to be monitored, with some positive indicators noted, but the presence of a fire in a park raises concerns."
+      },
+      "weather": {
+        "wind_speed_mph": 7.1,
+        "wind_direction": "SW",
+        "wind_gusts_mph": 16.1,
+        "temp_f": 78.8,
+        "humidity_pct": 86
+      },
+      "firms_analysis": {
+        "nearest_distance_km": null,
+        "temporal_comparison": "No satellite data for this day",
+        "detection_timing": "unknown"
+      },
+      "risk_level": {
+        "level": "Low",
+        "color": "green",
+        "score": 0,
+        "concerns": []
+      }
+    },
+    {
+      "cluster_id": "2024-07-25_cluster_1",
+      "date": "2024-07-25",
+      "location": {
+        "lat": 39.727205565116286,
+        "lon": -121.83915769534883
+      },
+      "time_range": {
+        "start": "2024-07-25 01:07:20",
+        "end": "2024-07-25 23:58:11"
+      },
+      "post_count": 86,
+      "social_summary": {
+        "summary": "a resident 25, 2024, the a resident near Chico, CA, has rapidly spread to 611 acres with only 3% containment. Evacuations have been ordered in parts of a resident, and residents are urged to prepare for potential evacuations. The community is rallying together, expressing concern for those affected and gratitude for first responders.",
+        "key_observations": [
+          "a resident Fire has grown to 611 acres and is only 3% contained as of 6 pm.",
+          "Parts of a resident have been evacuated due to the fire.",
+          "Residents are advised to be ready for evacuation and to ensure their loved ones are prepared."
+        ],
+        "severity": "The situation is critical, with active fire spread and evacuations in place."
+      },
+      "weather": {
+        "wind_speed_mph": 12.0,
+        "wind_direction": "SE",
+        "wind_gusts_mph": 28.2,
+        "temp_f": 105.4,
+        "humidity_pct": 15
+      },
+      "firms_analysis": {
+        "nearest_distance_km": null,
+        "temporal_comparison": "No satellite data for this day",
+        "detection_timing": "unknown"
+      },
+      "risk_level": {
+        "level": "Moderate",
+        "color": "orange",
+        "score": 4,
+        "concerns": [
+          "Low humidity increasing fire risk",
+          "High temperature",
+          "High volume of social media reports"
+        ]
+      }
+    },
+    {
+      "cluster_id": "2024-07-25_cluster_2",
+      "date": "2024-07-25",
+      "location": {
+        "lat": 39.75974639999999,
+        "lon": -121.84645150000001
+      },
+      "time_range": {
+        "start": "2024-07-25 03:01:22",
+        "end": "2024-07-25 19:06:11"
+      },
+      "post_count": 6,
+      "social_summary": {
+        "summary": "a resident 25, 2024, a resident reported witnessing the devastating a resident in a resident, which had rapidly expanded, burning over 71,000 acres and prompting evacuations in Butte and a resident. A suspect has been arrested for allegedly igniting the fire by pushing a burning car into a gully, raising concerns about the incident's impact on the community and the safety of residents.",
+        "key_observations": [
+          "Massive clouds of smoke were visible in the morning, highlighting the fire's severity.",
+          "Evacuations were ordered for areas including Cohasset, a resident, and a resident.",
+          "The fire's scale is comparable to the 2018 a resident, which resulted in significant loss of life."
+        ],
+        "severity": "High"
+      },
+      "weather": {
+        "wind_speed_mph": 9.7,
+        "wind_direction": "SE",
+        "wind_gusts_mph": 23.5,
+        "temp_f": 100.8,
+        "humidity_pct": 17
+      },
+      "firms_analysis": {
+        "nearest_distance_km": null,
+        "temporal_comparison": "No satellite data for this day",
+        "detection_timing": "unknown"
+      },
+      "risk_level": {
+        "level": "Moderate",
+        "color": "orange",
+        "score": 3,
+        "concerns": [
+          "Low humidity increasing fire risk",
+          "High temperature"
+        ]
+      }
+    },
+    {
+      "cluster_id": "2024-07-25_cluster_3",
+      "date": "2024-07-25",
+      "location": {
+        "lat": 40.298829,
+        "lon": -121.23712500000002
+      },
+      "time_range": {
+        "start": "2024-07-25 05:05:10",
+        "end": "2024-07-25 18:10:10"
+      },
+      "post_count": 5,
+      "social_summary": {
+        "summary": "a resident 25, 2024, several residents expressed their concerns and emotions regarding a fire event in Chester. Many shared their thoughts on social media, highlighting the unexpected nature of the situation and offering prayers for those affected.",
+        "key_observations": [
+          "Residents are sharing their experiences on Instagram, indicating a strong emotional response to the fire.",
+          "Multiple posts from residents reflect a sense of disbelief and sadness about the event.",
+          "The phrase 'not the way I imagined my last day here' suggests a personal connection to the location and the impact of the fire."
+        ],
+        "severity": "The fire event appears to be significant, causing distress among residents and prompting public expressions of concern and support."
+      },
+      "weather": {
+        "wind_speed_mph": 3.8,
+        "wind_direction": "S",
+        "wind_gusts_mph": 9.2,
+        "temp_f": 72.1,
+        "humidity_pct": 46
+      },
+      "firms_analysis": {
+        "nearest_distance_km": null,
+        "temporal_comparison": "No satellite data for this day",
+        "detection_timing": "unknown"
+      },
+      "risk_level": {
+        "level": "Low",
+        "color": "green",
+        "score": 0,
+        "concerns": []
+      }
+    },
+    {
+      "cluster_id": "2024-07-25_cluster_4",
+      "date": "2024-07-25",
+      "location": {
+        "lat": 39.6519275,
+        "lon": -121.58584440000001
+      },
+      "time_range": {
+        "start": "2024-07-25 05:36:23",
+        "end": "2024-07-25 19:13:51"
+      },
+      "post_count": 7,
+      "social_summary": {
+        "summary": "a resident Fire in California has escalated significantly, now covering 71,489 acres with only 3% containment. The fire is exhibiting extreme behavior and has prompted evacuation warnings in the affected areas of Butte and Tehama counties.",
+        "key_observations": [
+          "The fire has grown to 71,489 acres with 3% containment.",
+          "Extreme fire behavior has been observed, with the fire reaching a resident.",
+          "Local officials are urging residents to heed evacuation warnings."
+        ],
+        "severity": "The fire is currently the largest wildfire in California, posing a serious threat to local communities."
+      },
+      "weather": {
+        "wind_speed_mph": 10.3,
+        "wind_direction": "SE",
+        "wind_gusts_mph": 21.3,
+        "temp_f": 92.5,
+        "humidity_pct": 21
+      },
+      "firms_analysis": {
+        "nearest_distance_km": null,
+        "temporal_comparison": "No satellite data for this day",
+        "detection_timing": "unknown"
+      },
+      "risk_level": {
+        "level": "Low",
+        "color": "green",
+        "score": 0,
+        "concerns": []
+      }
+    },
+    {
+      "cluster_id": "2024-07-25_cluster_5",
+      "date": "2024-07-25",
+      "location": {
+        "lat": 39.6350312,
+        "lon": -121.39096100000002
+      },
+      "time_range": {
+        "start": "2024-07-25 07:16:03",
+        "end": "2024-07-25 07:22:54"
+      },
+      "post_count": 10,
+      "social_summary": {
+        "summary": "a resident 25, 2024, residents shared unedited photos of the California 'park fire' from various locations, including aerial views from an airplane and night glow images over a resident. Observations highlighted intense skies and smoke clouds seen from a resident and Paradise/Magalia, indicating the widespread impact of the fire in a resident.",
+        "key_observations": [
+          "Photos taken from an airplane show the park fire's extent.",
+          "Night glow images captured over a resident.",
+          "Intense sky and smoke clouds reported from multiple locations in a resident."
+        ],
+        "severity": "High, due to the visible impact of the fire and smoke in the region."
+      },
+      "weather": {
+        "wind_speed_mph": 7.3,
+        "wind_direction": "E",
+        "wind_gusts_mph": 17.0,
+        "temp_f": 79.5,
+        "humidity_pct": 32
+      },
+      "firms_analysis": {
+        "nearest_distance_km": null,
+        "temporal_comparison": "No satellite data for this day",
+        "detection_timing": "unknown"
+      },
+      "risk_level": {
+        "level": "Low",
+        "color": "green",
+        "score": 0,
+        "concerns": []
+      }
+    }
+  ],
+  "2024-07-26": [
+    {
+      "cluster_id": "2024-07-26_cluster_0",
+      "date": "2024-07-26",
+      "location": {
+        "lat": 39.72792875999999,
+        "lon": -121.84290516956521
+      },
+      "time_range": {
+        "start": "2024-07-26 00:18:16",
+        "end": "2024-07-26 23:45:05"
+      },
+      "post_count": 115,
+      "social_summary": {
+        "summary": "A significant wildfire, referred to as the a resident, has rapidly spread to over 124,000 acres in a resident, near Chico, prompting evacuation warnings for Paradise. Residents are urged to pray for those affected and to assist with donations for evacuees. The situation is exacerbated by high winds and extreme temperatures, creating a dire emergency for the community and first responders.",
+        "key_observations": [
+          "Evacuation warnings have been issued for Paradise due to the rapidly spreading fire.",
+          "The fire has grown to approximately 124,951 acres, affecting thousands of residents.",
+          "Local emergency proclamations have been made to facilitate response efforts."
+        ],
+        "severity": "The situation is critical, with a large-scale evacuation and significant fire damage impacting the community."
+      },
+      "weather": {
+        "wind_speed_mph": 11.3,
+        "wind_direction": "SE",
+        "wind_gusts_mph": 23.7,
+        "temp_f": 106.7,
+        "humidity_pct": 10
+      },
+      "firms_analysis": {
+        "nearest_distance_km": null,
+        "temporal_comparison": "No satellite data for this day",
+        "detection_timing": "unknown"
+      },
+      "risk_level": {
+        "level": "Moderate",
+        "color": "orange",
+        "score": 4,
+        "concerns": [
+          "Low humidity increasing fire risk",
+          "High temperature",
+          "High volume of social media reports"
+        ]
+      }
+    },
+    {
+      "cluster_id": "2024-07-26_cluster_1",
+      "date": "2024-07-26",
+      "location": {
+        "lat": 40.243481800000005,
+        "lon": -121.109453
+      },
+      "time_range": {
+        "start": "2024-07-26 00:41:05",
+        "end": "2024-07-26 16:15:02"
+      },
+      "post_count": 20,
+      "social_summary": {
+        "summary": "Residents are expressing concern over the smoke from the a resident, which is affecting the skies around the lake and causing distress reminiscent of past fire events. Many are praying for the safety of those impacted and for the firefighters battling the blaze.",
+        "key_observations": [
+          "Smoke from the a resident is filling the skies, causing distress among residents.",
+          "Evacuation warnings are approaching, prompting residents to remain vigilant.",
+          "Residents are sharing eerie views of the smoke and expressing solidarity with those affected."
+        ],
+        "severity": "The situation is critical, with evacuation warnings in place and significant emotional impact on the community."
+      },
+      "weather": {
+        "wind_speed_mph": 11.4,
+        "wind_direction": "SW",
+        "wind_gusts_mph": 27.7,
+        "temp_f": 86.7,
+        "humidity_pct": 15
+      },
+      "firms_analysis": {
+        "nearest_distance_km": null,
+        "temporal_comparison": "No satellite data for this day",
+        "detection_timing": "unknown"
+      },
+      "risk_level": {
+        "level": "Moderate",
+        "color": "orange",
+        "score": 3,
+        "concerns": [
+          "Low humidity increasing fire risk",
+          "High volume of social media reports"
+        ]
+      }
+    },
+    {
+      "cluster_id": "2024-07-26_cluster_2",
+      "date": "2024-07-26",
+      "location": {
+        "lat": 39.7596061,
+        "lon": -121.6219177
+      },
+      "time_range": {
+        "start": "2024-07-26 01:42:57",
+        "end": "2024-07-26 08:09:14"
+      },
+      "post_count": 3,
+      "social_summary": {
+        "summary": "Evacuations have begun in Paradise due to the a resident, with residents expressing hope for safety and control of the situation. Some are finding solace in aviation activities while reflecting on the impact of the fires on their communities. A poignant image of a deer amidst the smoke highlights the struggle between nature and human challenges.",
+        "key_observations": [
+          "Evacuations in Paradise have started due to the a resident.",
+          "Residents are engaging in plane spotting as a distraction from the fires.",
+          "A striking image of a deer against the fire smoke underscores the tension between nature and human impact."
+        ],
+        "severity": "The situation is critical as evacuations are underway and the community is facing another disaster."
+      },
+      "weather": {
+        "wind_speed_mph": 6.7,
+        "wind_direction": "S",
+        "wind_gusts_mph": 19.0,
+        "temp_f": 94.8,
+        "humidity_pct": 11
+      },
+      "firms_analysis": {
+        "nearest_distance_km": null,
+        "temporal_comparison": "No satellite data for this day",
+        "detection_timing": "unknown"
+      },
+      "risk_level": {
+        "level": "Low",
+        "color": "green",
+        "score": 2,
+        "concerns": [
+          "Low humidity increasing fire risk"
+        ]
+      }
+    },
+    {
+      "cluster_id": "2024-07-26_cluster_3",
+      "date": "2024-07-26",
+      "location": {
+        "lat": 39.8821053,
+        "lon": -121.6727541
+      },
+      "time_range": {
+        "start": "2024-07-26 02:41:45",
+        "end": "2024-07-26 21:08:07"
+      },
+      "post_count": 3,
+      "social_summary": {
+        "summary": "a resident 26, 2024, a resident reported on Instagram about a significant fire near Chico, CA, which has grown to over 170,000 acres. Firefighters are actively working to protect structures in a resident, while the resident is currently at the beach, far from the fire's immediate threat.",
+        "key_observations": [
+          "The fire has expanded to over 170,000 acres with a spot fire reported near a resident Drive & Highway 32.",
+          "Air support and additional firefighting resources have been requested to combat the fire.",
+          "The resident is at the beach in a resident, where temperatures are significantly cooler than in Chico."
+        ],
+        "severity": "The situation is critical as the fire is dangerously close to residential areas, prompting active firefighting efforts."
+      },
+      "weather": {
+        "wind_speed_mph": 7.0,
+        "wind_direction": "S",
+        "wind_gusts_mph": 19.0,
+        "temp_f": 88.5,
+        "humidity_pct": 14
+      },
+      "firms_analysis": {
+        "nearest_distance_km": null,
+        "temporal_comparison": "No satellite data for this day",
+        "detection_timing": "unknown"
+      },
+      "risk_level": {
+        "level": "Low",
+        "color": "green",
+        "score": 2,
+        "concerns": [
+          "Low humidity increasing fire risk"
+        ]
+      }
+    },
+    {
+      "cluster_id": "2024-07-26_cluster_4",
+      "date": "2024-07-26",
+      "location": {
+        "lat": 38.2974855,
+        "lon": -76.4933648
+      },
+      "time_range": {
+        "start": "2024-07-26 05:45:02",
+        "end": "2024-07-26 23:16:56"
+      },
+      "post_count": 12,
+      "social_summary": {
+        "summary": "a resident 25, 2024, a massive wildfire known as the a resident erupted in the a resident foothills, destroying 130 homes and injuring several people while prompting evacuation orders for thousands. The fire has burned over 164,000 acres and is only 3% contained, with 1,100 firefighters actively battling the flames. The fire was reportedly started by a resident who pushed a burning car down a gully, leading to their arrest.",
+        "key_observations": [
+          "a resident Fire has tripled in size within two days.",
+          "Evacuation orders have been issued for thousands of residents.",
+          "The fire has caused significant damage to homes and wildlife."
+        ],
+        "severity": "The situation is critical, with extensive property damage, injuries, and a large-scale evacuation effort underway."
+      },
+      "weather": {
+        "wind_speed_mph": 2.4,
+        "wind_direction": "N",
+        "wind_gusts_mph": 4.5,
+        "temp_f": 70.0,
+        "humidity_pct": 95
+      },
+      "firms_analysis": {
+        "nearest_distance_km": null,
+        "temporal_comparison": "No satellite data for this day",
+        "detection_timing": "unknown"
+      },
+      "risk_level": {
+        "level": "Low",
+        "color": "green",
+        "score": 1,
+        "concerns": [
+          "High volume of social media reports"
+        ]
+      }
+    },
+    {
+      "cluster_id": "2024-07-26_cluster_5",
+      "date": "2024-07-26",
+      "location": {
+        "lat": 40.1784279,
+        "lon": -122.235923
+      },
+      "time_range": {
+        "start": "2024-07-26 20:42:41",
+        "end": "2024-07-26 23:30:13"
+      },
+      "post_count": 5,
+      "social_summary": {
+        "summary": "a resident Fire has grown to over 178,000 acres, with high winds and temperatures complicating firefighting efforts. A resident has been arrested on suspicion of starting the fire by pushing a burning car into a gully, and the community's safety is the primary focus as harvests are paused temporarily.",
+        "key_observations": [
+          "a resident Fire is currently over 178,000 acres.",
+          "A resident was arrested for allegedly starting the fire.",
+          "Harvests are being paused to prioritize community safety."
+        ],
+        "severity": "High"
+      },
+      "weather": {
+        "wind_speed_mph": 6.8,
+        "wind_direction": "S",
+        "wind_gusts_mph": 17.5,
+        "temp_f": 98.4,
+        "humidity_pct": 13
+      },
+      "firms_analysis": {
+        "nearest_distance_km": null,
+        "temporal_comparison": "No satellite data for this day",
+        "detection_timing": "unknown"
+      },
+      "risk_level": {
+        "level": "Moderate",
+        "color": "orange",
+        "score": 3,
+        "concerns": [
+          "Low humidity increasing fire risk",
+          "High temperature"
+        ]
+      }
+    }
+  ],
+  "2024-07-27": [
+    {
+      "cluster_id": "2024-07-27_cluster_0",
+      "date": "2024-07-27",
+      "location": {
+        "lat": 40.4479345,
+        "lon": -122.2982544
+      },
+      "time_range": {
+        "start": "2024-07-27 00:00:38",
+        "end": "2024-07-27 00:00:38"
+      },
+      "post_count": 6,
+      "social_summary": {
+        "summary": "a resident 27, 2024, residents shared multiple posts on Instagram showcasing the rapid spread of the a resident from Anderson. The posts highlighted the extensive aerial firefighting efforts, with numerous tankers and helicopters actively working to combat the blaze.",
+        "key_observations": [
+          "Residents reported the fire spreading at an alarming speed.",
+          "There was a significant presence of firefighting aircraft, including tankers and helicopters.",
+          "The situation appeared to be critical, prompting urgent firefighting responses."
+        ],
+        "severity": "High"
+      },
+      "weather": {
+        "wind_speed_mph": 9.5,
+        "wind_direction": "S",
+        "wind_gusts_mph": 21.7,
+        "temp_f": 104.4,
+        "humidity_pct": 8
+      },
+      "firms_analysis": {
+        "nearest_distance_km": null,
+        "temporal_comparison": "No satellite data for this day",
+        "detection_timing": "unknown"
+      },
+      "risk_level": {
+        "level": "Moderate",
+        "color": "orange",
+        "score": 3,
+        "concerns": [
+          "Low humidity increasing fire risk",
+          "High temperature"
+        ]
+      }
+    },
+    {
+      "cluster_id": "2024-07-27_cluster_1",
+      "date": "2024-07-27",
+      "location": {
+        "lat": 39.72862978666668,
+        "lon": -121.84090660888887
+      },
+      "time_range": {
+        "start": "2024-07-27 00:41:12",
+        "end": "2024-07-27 05:36:47"
+      },
+      "post_count": 45,
+      "social_summary": {
+        "summary": "a resident 27, 2024, residents in a resident expressed concern over the rapidly spreading a resident near Chico, which has burned over 239,000 acres and remains 0% contained. Many residents are safe but report that friends and family have been affected, leading to a call for prayers and support for the community.",
+        "key_observations": [
+          "a resident Fire started about 3 miles from a resident's home and has quickly spread.",
+          "Residents have been monitoring the situation closely and have experienced mixed emotions due to the fire's impact on the community.",
+          "Residents expressed gratitude for the bravery and dedication of firefighters working to protect the area."
+        ],
+        "severity": "The fire is severe, having burned a large area with significant community impact and ongoing threats to safety."
+      },
+      "weather": {
+        "wind_speed_mph": 8.8,
+        "wind_direction": "S",
+        "wind_gusts_mph": 19.7,
+        "temp_f": 103.5,
+        "humidity_pct": 10
+      },
+      "firms_analysis": {
+        "nearest_distance_km": null,
+        "temporal_comparison": "No satellite data for this day",
+        "detection_timing": "unknown"
+      },
+      "risk_level": {
+        "level": "Moderate",
+        "color": "orange",
+        "score": 4,
+        "concerns": [
+          "Low humidity increasing fire risk",
+          "High temperature",
+          "High volume of social media reports"
+        ]
+      }
+    },
+    {
+      "cluster_id": "2024-07-27_cluster_2",
+      "date": "2024-07-27",
+      "location": {
+        "lat": 38.67052519999999,
+        "lon": -121.53992330000003
+      },
+      "time_range": {
+        "start": "2024-07-27 02:15:25",
+        "end": "2024-07-27 02:15:25"
+      },
+      "post_count": 7,
+      "social_summary": {
+        "summary": "Residents are experiencing significant delays in returning home due to a large fire event. The situation appears to be more extensive than initially anticipated, prompting concerns for safety among the community.",
+        "key_observations": [
+          "Residents are making their way home very slowly.",
+          "The fire is bigger than expected.",
+          "Residents are urging each other to stay safe."
+        ],
+        "severity": "High"
+      },
+      "weather": {
+        "wind_speed_mph": 11.8,
+        "wind_direction": "SW",
+        "wind_gusts_mph": 24.9,
+        "temp_f": 88.7,
+        "humidity_pct": 22
+      },
+      "firms_analysis": {
+        "nearest_distance_km": null,
+        "temporal_comparison": "No satellite data for this day",
+        "detection_timing": "unknown"
+      },
+      "risk_level": {
+        "level": "Low",
+        "color": "green",
+        "score": 0,
+        "concerns": []
+      }
+    },
+    {
+      "cluster_id": "2024-07-27_cluster_3",
+      "date": "2024-07-27",
+      "location": {
+        "lat": 40.359864,
+        "lon": -122.20943029999998
+      },
+      "time_range": {
+        "start": "2024-07-27 04:04:11",
+        "end": "2024-07-27 04:04:11"
+      },
+      "post_count": 5,
+      "social_summary": {
+        "summary": "a resident 27, 2024, residents expressed concern over the shifting winds during a fire event, repeatedly asking for prayers that the wind does not change further. The urgency of the situation was emphasized by multiple posts on Instagram highlighting the potential danger posed by the wind's direction.",
+        "key_observations": [
+          "Residents are worried about the wind shifting during the fire event.",
+          "Multiple posts on Instagram indicate a heightened sense of urgency.",
+          "The repeated calls for prayers suggest a community deeply affected by the situation."
+        ],
+        "severity": "Critical"
+      },
+      "weather": {
+        "wind_speed_mph": 8.1,
+        "wind_direction": "SE",
+        "wind_gusts_mph": 14.1,
+        "temp_f": 92.8,
+        "humidity_pct": 13
+      },
+      "firms_analysis": {
+        "nearest_distance_km": null,
+        "temporal_comparison": "No satellite data for this day",
+        "detection_timing": "unknown"
+      },
+      "risk_level": {
+        "level": "Low",
+        "color": "green",
+        "score": 2,
+        "concerns": [
+          "Low humidity increasing fire risk"
+        ]
+      }
+    },
+    {
+      "cluster_id": "2024-07-27_cluster_4",
+      "date": "2024-07-27",
+      "location": {
+        "lat": 40.557601,
+        "lon": -122.17672459999999
+      },
+      "time_range": {
+        "start": "2024-07-27 04:43:05",
+        "end": "2024-07-27 04:43:05"
+      },
+      "post_count": 5,
+      "social_summary": {
+        "summary": "a resident 27, 2024, multiple residents shared views from their farm, expressing concern and prayers for those affected by a significant fire. The posts highlighted the intensity of the situation and the impact on the community.",
+        "key_observations": [
+          "Residents posted multiple views of the fire from their farm.",
+          "There is a strong sense of community support and concern for those affected.",
+          "The fire is described as a 'monster,' indicating its severity."
+        ],
+        "severity": "The fire is considered severe, causing widespread concern and distress among residents."
+      },
+      "weather": {
+        "wind_speed_mph": 6.8,
+        "wind_direction": "SE",
+        "wind_gusts_mph": 11.4,
+        "temp_f": 91.4,
+        "humidity_pct": 14
+      },
+      "firms_analysis": {
+        "nearest_distance_km": null,
+        "temporal_comparison": "No satellite data for this day",
+        "detection_timing": "unknown"
+      },
+      "risk_level": {
+        "level": "Low",
+        "color": "green",
+        "score": 2,
+        "concerns": [
+          "Low humidity increasing fire risk"
+        ]
+      }
+    },
+    {
+      "cluster_id": "2024-07-27_cluster_5",
+      "date": "2024-07-27",
+      "location": {
+        "lat": 38.2974855,
+        "lon": -76.4933648
+      },
+      "time_range": {
+        "start": "2024-07-27 05:23:42",
+        "end": "2024-07-27 05:23:42"
+      },
+      "post_count": 3,
+      "social_summary": {
+        "summary": "A resident expressed a range of emotions while trying to ensure the safety of their granddaughter and pet during a nearby fire. They reflected on the distress of the situation, the concern for loved ones, and the gratitude for those helping to keep them safe. The resident is also focusing on calming techniques to support their well-being during this stressful time.",
+        "key_observations": [
+          "The resident was trying to return home from Utah to ensure the safety of their granddaughter and pet near the Park fire.",
+          "They experienced emotional turmoil, including concern for friends and family and memories of a past fire event.",
+          "The resident is utilizing resources to support their parasympathetic nervous system and encourages others to join in prayer."
+        ],
+        "severity": "High emotional distress due to proximity to fire and concern for loved ones."
+      },
+      "weather": {
+        "wind_speed_mph": 2.9,
+        "wind_direction": "NW",
+        "wind_gusts_mph": 5.3,
+        "temp_f": 70.0,
+        "humidity_pct": 79
+      },
+      "firms_analysis": {
+        "nearest_distance_km": null,
+        "temporal_comparison": "No satellite data for this day",
+        "detection_timing": "unknown"
+      },
+      "risk_level": {
+        "level": "Low",
+        "color": "green",
+        "score": 0,
+        "concerns": []
+      }
+    }
+  ]
+}

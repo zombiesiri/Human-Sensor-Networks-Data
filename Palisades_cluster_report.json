@@ -1,0 +1,360 @@
+{
+  "2025-01-07": [
+    {
+      "cluster_id": "2025-01-07_cluster_0",
+      "date": "2025-01-07",
+      "location": {
+        "lat": 37.426156500000005,
+        "lon": -121.90566600000004
+      },
+      "time_range": {
+        "start": "2025-01-07 07:24:04",
+        "end": "2025-01-07 23:59:59"
+      },
+      "post_count": 2082,
+      "social_summary": {
+        "summary": "On January 7, 2025, multiple fire events were reported across various locations, with significant activity noted in urban areas. Eyewitness accounts highlighted the rapid spread of flames and the response efforts by local fire departments.",
+        "key_observations": [
+          "Witnesses described thick smoke and intense heat in the vicinity of the fires.",
+          "Firefighters worked tirelessly to contain the blazes, facing challenging conditions.",
+          "Social media posts indicated widespread concern among residents regarding air quality."
+        ],
+        "severity": "High"
+      },
+      "weather": {
+        "wind_speed_mph": 2.2,
+        "wind_direction": "N",
+        "wind_gusts_mph": 5.2,
+        "temp_f": 46.9,
+        "humidity_pct": 100
+      },
+      "firms_analysis": {
+        "nearest_distance_km": 443.88,
+        "temporal_comparison": "Satellite detected 2.3 hours before social media",
+        "detection_timing": "satellite_first",
+        "nearest_pixel": {
+          "lat": 34.43178,
+          "lon": -118.64443,
+          "brightness": 301.36,
+          "frp": 0.61,
+          "confidence": "n",
+          "time": "09:45"
+        }
+      },
+      "risk_level": {
+        "level": "Low",
+        "color": "green",
+        "score": 1,
+        "concerns": [
+          "High volume of social media reports"
+        ]
+      }
+    },
+    {
+      "cluster_id": "2025-01-07_cluster_1",
+      "date": "2025-01-07",
+      "location": {
+        "lat": 36.4831438,
+        "lon": -35.5947776
+      },
+      "time_range": {
+        "start": "2025-01-07 20:41:56",
+        "end": "2025-01-07 23:54:59"
+      },
+      "post_count": 3,
+      "social_summary": {
+        "summary": "On January 7, 2025, multiple fire events were reported across various locations. Observations indicated a rapid spread of flames, prompting immediate evacuations and emergency responses.",
+        "key_observations": [
+          "Fires reported in residential areas, leading to evacuations.",
+          "High winds contributed to the rapid spread of the fire.",
+          "Emergency services were deployed to contain the situation."
+        ],
+        "severity": "High"
+      },
+      "weather": {
+        "wind_speed_mph": 26.2,
+        "wind_direction": "W",
+        "wind_gusts_mph": 34.9,
+        "temp_f": 66.0,
+        "humidity_pct": 64
+      },
+      "firms_analysis": {
+        "nearest_distance_km": 7248.67,
+        "temporal_comparison": "Social media detected 10.9 hours BEFORE satellite",
+        "detection_timing": "social_first",
+        "nearest_pixel": {
+          "lat": 34.03498,
+          "lon": -118.10603,
+          "brightness": 298.98,
+          "frp": 0.6,
+          "confidence": "n",
+          "time": "09:45"
+        }
+      },
+      "risk_level": {
+        "level": "Moderate",
+        "color": "orange",
+        "score": 4,
+        "concerns": [
+          "Strong winds spreading fire",
+          "Social media reports before satellite detection"
+        ]
+      }
+    },
+    {
+      "cluster_id": "2025-01-07_cluster_2",
+      "date": "2025-01-07",
+      "location": {
+        "lat": 34.01718586,
+        "lon": -118.48780730000003
+      },
+      "time_range": {
+        "start": "2025-01-07 21:06:27",
+        "end": "2025-01-07 22:58:07"
+      },
+      "post_count": 3,
+      "social_summary": {
+        "summary": "On January 7, 2025, multiple fire events were reported, highlighting significant concerns about safety and response times. Observations indicated a rapid spread of flames in certain areas, prompting urgent evacuations and emergency services deployment.",
+        "key_observations": [
+          "Rapid spread of flames in residential areas.",
+          "Emergency services faced challenges in accessing affected locations.",
+          "Evacuations were initiated for nearby residents."
+        ],
+        "severity": "High"
+      },
+      "weather": {
+        "wind_speed_mph": 13.9,
+        "wind_direction": "N",
+        "wind_gusts_mph": 32.4,
+        "temp_f": 71.2,
+        "humidity_pct": 19
+      },
+      "firms_analysis": {
+        "nearest_distance_km": 5.57,
+        "temporal_comparison": "Social media detected 0.0 hours BEFORE satellite",
+        "detection_timing": "social_first",
+        "nearest_pixel": {
+          "lat": 34.05165,
+          "lon": -118.53169,
+          "brightness": 335.4,
+          "frp": 5.11,
+          "confidence": "n",
+          "time": "21:04"
+        }
+      },
+      "risk_level": {
+        "level": "Moderate",
+        "color": "orange",
+        "score": 4,
+        "concerns": [
+          "Low humidity increasing fire risk",
+          "Social media reports before satellite detection"
+        ]
+      }
+    }
+  ],
+  "2025-01-31": [
+    {
+      "cluster_id": "2025-01-31_cluster_0",
+      "date": "2025-01-31",
+      "location": {
+        "lat": 34.04510927419355,
+        "lon": -118.52924843870969
+      },
+      "time_range": {
+        "start": "2025-01-31 08:24:00",
+        "end": "2025-01-31 22:36:00"
+      },
+      "post_count": 62,
+      "social_summary": {
+        "summary": "On January 31, 2025, various observations highlighted the aftermath of devastating wildfires in Pacific Palisades, with individuals sharing their experiences of loss and recovery. Community efforts included offering classes on soil remediation for affected residents and distributing wildflower seeds to promote healing and regrowth in the area.",
+        "key_observations": [
+          "A Sig Sauer MCX Regulator melted in a house fire, illustrating the intense heat of the blaze.",
+          "A local resident is offering free soil remediation classes to help those affected by the fires restore their land.",
+          "Survivors are encouraged to seek mental health support and participate in community rebuilding efforts."
+        ],
+        "severity": "The wildfires have caused significant destruction, displacing residents and destroying homes, businesses, and community spaces, leading to emotional distress and a need for recovery support."
+      },
+      "weather": {
+        "wind_speed_mph": 2.7,
+        "wind_direction": "N",
+        "wind_gusts_mph": 6.0,
+        "temp_f": 43.9,
+        "humidity_pct": 89
+      },
+      "firms_analysis": {
+        "nearest_distance_km": null,
+        "temporal_comparison": "No satellite data for this day",
+        "detection_timing": "unknown"
+      },
+      "risk_level": {
+        "level": "Low",
+        "color": "green",
+        "score": 1,
+        "concerns": [
+          "High volume of social media reports"
+        ]
+      }
+    },
+    {
+      "cluster_id": "2025-01-31_cluster_1",
+      "date": "2025-01-31",
+      "location": {
+        "lat": 34.035591,
+        "lon": -118.689423
+      },
+      "time_range": {
+        "start": "2025-01-31 17:00:00",
+        "end": "2025-01-31 22:10:00"
+      },
+      "post_count": 10,
+      "social_summary": {
+        "summary": "On January 31, 2025, fire-resistant construction materials were highlighted as essential for rebuilding homes in Malibu, CA, following devastating wildfires. A local resident shared their emotional experience of surviving the Palisades fire, reflecting on the loss of their neighborhood and the importance of community support in the recovery process.",
+        "key_observations": [
+          "ERESD offers comprehensive post-wildfire cleanup and rebuilding services using fire-resistant materials.",
+          "The resident's home survived the fire, but they expressed feelings of loss and uncertainty about the future.",
+          "The community's resilience and the role of first responders were emphasized as crucial during the recovery."
+        ],
+        "severity": "High impact due to the loss of homes and community, with ongoing emotional and physical recovery challenges."
+      },
+      "weather": {
+        "wind_speed_mph": 2.7,
+        "wind_direction": "NW",
+        "wind_gusts_mph": 8.1,
+        "temp_f": 54.5,
+        "humidity_pct": 77
+      },
+      "firms_analysis": {
+        "nearest_distance_km": null,
+        "temporal_comparison": "No satellite data for this day",
+        "detection_timing": "unknown"
+      },
+      "risk_level": {
+        "level": "Low",
+        "color": "green",
+        "score": 0,
+        "concerns": []
+      }
+    },
+    {
+      "cluster_id": "2025-01-31_cluster_2",
+      "date": "2025-01-31",
+      "location": {
+        "lat": 34.0536909,
+        "lon": -118.242766
+      },
+      "time_range": {
+        "start": "2025-01-31 19:57:00",
+        "end": "2025-01-31 22:24:00"
+      },
+      "post_count": 3,
+      "social_summary": {
+        "summary": "A 15-year-old reader named Abigail lost her home in a fire and has a wishlist for rebuilding her book collection, with purchases supporting a local bookstore. Additionally, a Beetle belonging to a user named John Doe survived the Los Angeles fires, receiving significant community support and donations for repairs.",
+        "key_observations": [
+          "Abigail's book wishlist aims to help her rebuild her collection after losing her home.",
+          "The community has shown strong support for John Doe, whose car survived the fires, with over 265,000 views and 13,000 likes on social media.",
+          "Local businesses are contributing to recovery efforts by providing donations and support."
+        ],
+        "severity": "The events highlight the impact of the fires on individuals and the community's response to support recovery efforts."
+      },
+      "weather": {
+        "wind_speed_mph": 1.9,
+        "wind_direction": "SW",
+        "wind_gusts_mph": 8.7,
+        "temp_f": 57.0,
+        "humidity_pct": 64
+      },
+      "firms_analysis": {
+        "nearest_distance_km": null,
+        "temporal_comparison": "No satellite data for this day",
+        "detection_timing": "unknown"
+      },
+      "risk_level": {
+        "level": "Low",
+        "color": "green",
+        "score": 0,
+        "concerns": []
+      }
+    },
+    {
+      "cluster_id": "2025-01-31_cluster_3",
+      "date": "2025-01-31",
+      "location": {
+        "lat": 33.9442586,
+        "lon": -118.3421719
+      },
+      "time_range": {
+        "start": "2025-01-31 21:25:00",
+        "end": "2025-01-31 21:25:00"
+      },
+      "post_count": 3,
+      "social_summary": {
+        "summary": "The fire aid show was an unforgettable emotional experience for the attendee, filled with poignant moments and memories, particularly highlighted by a segment dedicated to their former condo complex. The night was a mix of devastation and beauty, reflecting the complexities of Los Angeles.",
+        "key_observations": [
+          "The attendee received gifted row 2 seats, enhancing the experience.",
+          "A segment featuring a photo of their former home evoked strong emotions.",
+          "The event was described as devastating yet beautiful, complex yet cathartic."
+        ],
+        "severity": "The emotional impact of the event was profound, highlighting both personal loss and community resilience."
+      },
+      "weather": {
+        "wind_speed_mph": 3.8,
+        "wind_direction": "SW",
+        "wind_gusts_mph": 13.0,
+        "temp_f": 60.6,
+        "humidity_pct": 57
+      },
+      "firms_analysis": {
+        "nearest_distance_km": null,
+        "temporal_comparison": "No satellite data for this day",
+        "detection_timing": "unknown"
+      },
+      "risk_level": {
+        "level": "Low",
+        "color": "green",
+        "score": 0,
+        "concerns": []
+      }
+    },
+    {
+      "cluster_id": "2025-01-31_cluster_4",
+      "date": "2025-01-31",
+      "location": {
+        "lat": 33.78948050000001,
+        "lon": -118.18938419999999
+      },
+      "time_range": {
+        "start": "2025-01-31 18:30:00",
+        "end": "2025-01-31 18:30:00"
+      },
+      "post_count": 10,
+      "social_summary": {
+        "summary": "Residents return to the Pacific Coast Highway after the Palisades Fire devastated the area, destroying nearly all homes. Among them are an elderly man sifting through rubble and a mother and son inspecting the remains of their home, once owned by a baseball legend. A single house in Malibu remains untouched amidst the destruction, while aid organizations and the Army National Guard are present to assist.",
+        "key_observations": [
+          "An elderly resident digs through the rubble of his home.",
+          "A mother and son inspect the remains of their home, previously owned by a famous baseball player.",
+          "Aid organizations and Army National Guard members are present along the highway."
+        ],
+        "severity": "High destruction with significant loss of homes and community impact."
+      },
+      "weather": {
+        "wind_speed_mph": 2.1,
+        "wind_direction": "NW",
+        "wind_gusts_mph": 7.4,
+        "temp_f": 52.5,
+        "humidity_pct": 77
+      },
+      "firms_analysis": {
+        "nearest_distance_km": null,
+        "temporal_comparison": "No satellite data for this day",
+        "detection_timing": "unknown"
+      },
+      "risk_level": {
+        "level": "Low",
+        "color": "green",
+        "score": 0,
+        "concerns": []
+      }
+    }
+  ]
+}

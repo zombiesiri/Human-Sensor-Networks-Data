@@ -1,0 +1,429 @@
+{
+  "2025-01-31": [
+    {
+      "cluster_id": "2025-01-31_cluster_0",
+      "date": "2025-01-31",
+      "location": {
+        "lat": 34.19091579,
+        "lon": -118.13711287750002
+      },
+      "time_range": {
+        "start": "2025-01-31 14:38:55",
+        "end": "2025-01-31 22:14:11"
+      },
+      "post_count": 40,
+      "social_summary": {
+        "summary": "On January 31, 2025, community-driven mutual aid efforts rapidly mobilized to support victims of the Eaton Fire in Altadena, highlighting the importance of speed, community connection, and values of equity and care. The fire devastated historically Black neighborhoods, destroying over 7,000 structures and resulting in at least 16 fatalities, exacerbating existing challenges related to insurance and rebuilding efforts for affected families.",
+        "key_observations": [
+          "Supplies were delivered quickly from the Bay Area to LA, outpacing larger organizations.",
+          "The mutual aid effort fostered community connections and broke feelings of loneliness among organizers.",
+          "The destruction of homes in Altadena, particularly in historically marginalized neighborhoods, poses significant challenges for rebuilding and insurance coverage."
+        ],
+        "severity": "The Eaton Fire caused catastrophic damage, particularly impacting historically Black neighborhoods, with significant loss of life and property."
+      },
+      "weather": {
+        "wind_speed_mph": 0.6,
+        "wind_direction": "NE",
+        "wind_gusts_mph": 2.7,
+        "temp_f": 45.5,
+        "humidity_pct": 50
+      },
+      "firms_analysis": {
+        "nearest_distance_km": null,
+        "temporal_comparison": "No satellite data for this day",
+        "detection_timing": "unknown"
+      },
+      "risk_level": {
+        "level": "Low",
+        "color": "green",
+        "score": 1,
+        "concerns": [
+          "High volume of social media reports"
+        ]
+      }
+    },
+    {
+      "cluster_id": "2025-01-31_cluster_1",
+      "date": "2025-01-31",
+      "location": {
+        "lat": 34.0536909,
+        "lon": -118.242766
+      },
+      "time_range": {
+        "start": "2025-01-31 16:44:45",
+        "end": "2025-01-31 18:44:52"
+      },
+      "post_count": 5,
+      "social_summary": {
+        "summary": "In the aftermath of devastating fires, many individuals in Los Angeles, including the author, are grappling with the loss of their homes and belongings, feeling as though they are starting over from scratch. The journey to rebuild is daunting, but there is a sense of hope and community support, especially for first responders who have shown remarkable dedication during this crisis.",
+        "key_observations": [
+          "The author feels a deep sense of loss and is metaphorically back at the drawing board, redesigning their life after losing everything.",
+          "There is a collective struggle among thousands in Los Angeles, emphasizing the importance of taking small steps to rebuild.",
+          "The author expresses gratitude towards first responders and volunteers for their courage and support during this challenging time."
+        ],
+        "severity": "The situation is severe, with widespread displacement and emotional trauma affecting many individuals and families in the community."
+      },
+      "weather": {
+        "wind_speed_mph": 2.6,
+        "wind_direction": "NW",
+        "wind_gusts_mph": 5.3,
+        "temp_f": 44.8,
+        "humidity_pct": 76
+      },
+      "firms_analysis": {
+        "nearest_distance_km": null,
+        "temporal_comparison": "No satellite data for this day",
+        "detection_timing": "unknown"
+      },
+      "risk_level": {
+        "level": "Low",
+        "color": "green",
+        "score": 0,
+        "concerns": []
+      }
+    },
+    {
+      "cluster_id": "2025-01-31_cluster_2",
+      "date": "2025-01-31",
+      "location": {
+        "lat": 37.4261565,
+        "lon": -121.90566600000004
+      },
+      "time_range": {
+        "start": "2025-01-31 08:02:40",
+        "end": "2025-01-31 23:44:26"
+      },
+      "post_count": 112,
+      "social_summary": {
+        "summary": "On January 31, 2025, multiple fire events were reported across various locations, with significant activity observed in urban areas. The incidents prompted emergency responses and raised concerns about safety and property damage.",
+        "key_observations": [
+          "Multiple fire incidents reported in urban areas.",
+          "Emergency services were deployed to manage the situation.",
+          "Residents expressed concern over safety and potential property damage."
+        ],
+        "severity": "Moderate to high, depending on the location and impact of the fires."
+      },
+      "weather": {
+        "wind_speed_mph": 0.9,
+        "wind_direction": "SE",
+        "wind_gusts_mph": 2.2,
+        "temp_f": 44.2,
+        "humidity_pct": 86
+      },
+      "firms_analysis": {
+        "nearest_distance_km": null,
+        "temporal_comparison": "No satellite data for this day",
+        "detection_timing": "unknown"
+      },
+      "risk_level": {
+        "level": "Low",
+        "color": "green",
+        "score": 1,
+        "concerns": [
+          "High volume of social media reports"
+        ]
+      }
+    }
+  ],
+  "2025-02-01": [
+    {
+      "cluster_id": "2025-02-01_cluster_0",
+      "date": "2025-02-01",
+      "location": {
+        "lat": 34.192715126829256,
+        "lon": -118.13735628780488
+      },
+      "time_range": {
+        "start": "2025-02-01 00:17:14",
+        "end": "2025-02-01 05:04:21"
+      },
+      "post_count": 41,
+      "social_summary": {
+        "summary": "The Altadena community is reeling from the devastating Eaton Fire, which destroyed over 9,000 structures in just 12 hours, resulting in significant loss of homes and lives. Despite the destruction, there is a strong sense of community support and resilience, with many coming together to aid those affected and affirming their commitment to rebuild.",
+        "key_observations": [
+          "Thousands have lost their homes, and the area has been drastically altered, leaving many grieving.",
+          "Community efforts have mobilized to provide food, water, and support for those impacted by the fire.",
+          "The fires have resulted in 29 confirmed deaths, with more individuals reported missing as the community begins to assess the damage."
+        ],
+        "severity": "The event is classified as catastrophic, with widespread destruction and loss of life, necessitating extensive recovery efforts."
+      },
+      "weather": {
+        "wind_speed_mph": 2.1,
+        "wind_direction": "SW",
+        "wind_gusts_mph": 10.7,
+        "temp_f": 56.8,
+        "humidity_pct": 69
+      },
+      "firms_analysis": {
+        "nearest_distance_km": null,
+        "temporal_comparison": "No satellite data for this day",
+        "detection_timing": "unknown"
+      },
+      "risk_level": {
+        "level": "Low",
+        "color": "green",
+        "score": 1,
+        "concerns": [
+          "High volume of social media reports"
+        ]
+      }
+    }
+  ],
+  "2025-01-08": [
+    {
+      "cluster_id": "2025-01-08_cluster_0",
+      "date": "2025-01-08",
+      "location": {
+        "lat": 34.191753125,
+        "lon": -118.13920327
+      },
+      "time_range": {
+        "start": "2025-01-08 06:44:19",
+        "end": "2025-01-08 23:58:25"
+      },
+      "post_count": 4,
+      "social_summary": {
+        "summary": "On January 8, 2025, residents of Altadena experienced severe winds and a destructive fire, leading to evacuations and significant losses. One individual shared their heartbreak over losing their home while expressing gratitude for the support from friends, family, and neighbors during this difficult time.",
+        "key_observations": [
+          "Residents evacuated due to crazy wind and fire in Altadena.",
+          "One individual lost their home but received support from the community.",
+          "Expressions of gratitude for the love and care from friends, family, and neighbors."
+        ],
+        "severity": "High, with significant property loss and emotional distress reported."
+      },
+      "weather": {
+        "wind_speed_mph": 23.0,
+        "wind_direction": "N",
+        "wind_gusts_mph": 54.8,
+        "temp_f": 54.1,
+        "humidity_pct": 22
+      },
+      "firms_analysis": {
+        "nearest_distance_km": 0.25,
+        "temporal_comparison": "Satellite detected 14.0 hours before social media",
+        "detection_timing": "satellite_first",
+        "nearest_pixel": {
+          "lat": 34.19081,
+          "lon": -118.13673,
+          "brightness": 351.1,
+          "frp": 36.15,
+          "confidence": "n",
+          "time": "20:45"
+        }
+      },
+      "risk_level": {
+        "level": "High",
+        "color": "red",
+        "score": 5,
+        "concerns": [
+          "Strong winds spreading fire",
+          "Very close to satellite-detected fire"
+        ]
+      }
+    },
+    {
+      "cluster_id": "2025-01-08_cluster_1",
+      "date": "2025-01-08",
+      "location": {
+        "lat": 37.42615649999999,
+        "lon": -121.90566600000002
+      },
+      "time_range": {
+        "start": "2025-01-08 02:24:58",
+        "end": "2025-01-08 23:59:44"
+      },
+      "post_count": 2944,
+      "social_summary": {
+        "summary": "On January 8, 2025, multiple fire events were reported across various locations, with significant visibility on social media platforms like Instagram. Observers noted the rapid spread of flames and the response efforts by local fire departments to contain the situation.",
+        "key_observations": [
+          "Fire spread rapidly in urban areas",
+          "Local fire departments engaged in containment efforts",
+          "Social media played a crucial role in disseminating information"
+        ],
+        "severity": "High"
+      },
+      "weather": {
+        "wind_speed_mph": 5.1,
+        "wind_direction": "NW",
+        "wind_gusts_mph": 13.0,
+        "temp_f": 55.8,
+        "humidity_pct": 54
+      },
+      "firms_analysis": {
+        "nearest_distance_km": 461.04,
+        "temporal_comparison": "Satellite detected 7.0 hours before social media",
+        "detection_timing": "satellite_first",
+        "nearest_pixel": {
+          "lat": 34.33962,
+          "lon": -118.48746,
+          "brightness": 319.19,
+          "frp": 3.85,
+          "confidence": "n",
+          "time": "09:26"
+        }
+      },
+      "risk_level": {
+        "level": "Low",
+        "color": "green",
+        "score": 1,
+        "concerns": [
+          "High volume of social media reports"
+        ]
+      }
+    },
+    {
+      "cluster_id": "2025-01-08_cluster_2",
+      "date": "2025-01-08",
+      "location": {
+        "lat": 36.4831438,
+        "lon": -35.5947776
+      },
+      "time_range": {
+        "start": "2025-01-08 07:41:38",
+        "end": "2025-01-08 23:04:39"
+      },
+      "post_count": 5,
+      "social_summary": {
+        "summary": "On January 8, 2025, multiple fire events were reported across various locations, prompting significant concern among local residents. The incidents varied in severity, with some resulting in evacuations and property damage.",
+        "key_observations": [
+          "Fire reported in downtown area, causing road closures.",
+          "Residents evacuated from nearby buildings as a precaution.",
+          "Emergency services responded quickly to contain the flames."
+        ],
+        "severity": "Moderate to high, with potential for further escalation if not controlled."
+      },
+      "weather": {
+        "wind_speed_mph": 30.3,
+        "wind_direction": "SW",
+        "wind_gusts_mph": 41.1,
+        "temp_f": 67.3,
+        "humidity_pct": 79
+      },
+      "firms_analysis": {
+        "nearest_distance_km": 7191.39,
+        "temporal_comparison": "Satellite detected 1.7 hours before social media",
+        "detection_timing": "satellite_first",
+        "nearest_pixel": {
+          "lat": 34.65927,
+          "lon": -117.80544,
+          "brightness": 299.44,
+          "frp": 0.99,
+          "confidence": "n",
+          "time": "09:26"
+        }
+      },
+      "risk_level": {
+        "level": "Low",
+        "color": "green",
+        "score": 2,
+        "concerns": [
+          "Strong winds spreading fire"
+        ]
+      }
+    }
+  ],
+  "2025-01-09": [
+    {
+      "cluster_id": "2025-01-09_cluster_0",
+      "date": "2025-01-09",
+      "location": {
+        "lat": 34.2351774,
+        "lon": -118.6048439
+      },
+      "time_range": {
+        "start": "2025-01-09 05:14:31",
+        "end": "2025-01-09 05:14:31"
+      },
+      "post_count": 3,
+      "social_summary": {
+        "summary": "The observations reflect a deep acknowledgment of the destructive power of fire and the human tendency to exploit nature without regard for the consequences. There is a call for collective awakening and humility, emphasizing the importance of unity over competition and the need for change in how we interact with the environment. The message conveys compassion for those affected by the recent fires and a hope for a transformative lesson.",
+        "key_observations": [
+          "Humans have contributed to environmental destruction through excess and greed.",
+          "The Spirit of Wind amplifies the message of devastation, reminding us of our vulnerability when isolated.",
+          "A call for collective awakening to prioritize unity and humility over materialism."
+        ],
+        "severity": "The event has caused devastating loss and fear, impacting many lives and prompting a reflection on human behavior and responsibility."
+      },
+      "weather": {
+        "wind_speed_mph": 7.6,
+        "wind_direction": "N",
+        "wind_gusts_mph": 19.0,
+        "temp_f": 58.1,
+        "humidity_pct": 13
+      },
+      "firms_analysis": {
+        "nearest_distance_km": 13.43,
+        "temporal_comparison": "Satellite detected 15.2 hours before social media",
+        "detection_timing": "satellite_first",
+        "nearest_pixel": {
+          "lat": 34.3338,
+          "lon": -118.52038,
+          "brightness": 328.17,
+          "frp": 1.78,
+          "confidence": "n",
+          "time": "20:26"
+        }
+      },
+      "risk_level": {
+        "level": "Low",
+        "color": "green",
+        "score": 2,
+        "concerns": [
+          "Low humidity increasing fire risk"
+        ]
+      }
+    },
+    {
+      "cluster_id": "2025-01-09_cluster_1",
+      "date": "2025-01-09",
+      "location": {
+        "lat": 34.1928193,
+        "lon": -118.13746629999997
+      },
+      "time_range": {
+        "start": "2025-01-09 04:21:38",
+        "end": "2025-01-09 07:43:23"
+      },
+      "post_count": 11,
+      "social_summary": {
+        "summary": "On January 8, 2025, the Eaton Fire devastated a community, resulting in hundreds of homes being destroyed and over 100,000 people evacuated. A resident shared their heartbreak over losing their home, which was part of a project documenting family memories, while expressing gratitude for the support of their community and the bravery of firefighters. The fire's impact was exacerbated by budget cuts to fire services and insurance companies halting new policies in California.",
+        "key_observations": [
+          "Hundreds of homes burned to the ground.",
+          "Over 100,000 people were evacuated.",
+          "Los Angeles cut fire services budget by $17.6 million last year."
+        ],
+        "severity": "High - significant loss of property and community disruption."
+      },
+      "weather": {
+        "wind_speed_mph": 6.1,
+        "wind_direction": "N",
+        "wind_gusts_mph": 13.2,
+        "temp_f": 54.1,
+        "humidity_pct": 14
+      },
+      "firms_analysis": {
+        "nearest_distance_km": 0.19,
+        "temporal_comparison": "Satellite detected 6.4 hours before social media",
+        "detection_timing": "satellite_first",
+        "nearest_pixel": {
+          "lat": 34.19448,
+          "lon": -118.13775,
+          "brightness": 299.82,
+          "frp": 3.0,
+          "confidence": "n",
+          "time": "10:47"
+        }
+      },
+      "risk_level": {
+        "level": "High",
+        "color": "red",
+        "score": 6,
+        "concerns": [
+          "Low humidity increasing fire risk",
+          "Very close to satellite-detected fire",
+          "High volume of social media reports"
+        ]
+      }
+    }
+  ]
+}
